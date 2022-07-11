@@ -1,2 +1,0 @@
-# FRONTEND
-MY FIRST frontend
