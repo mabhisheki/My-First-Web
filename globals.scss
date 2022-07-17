@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --border-radius:0.25em;
+    --whiteColor:white;
+    --cardColor:white;
+}
+
+label{
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+}
+input{
+    width: 100%;
+    background: white;
+    border: 1px solid black;
+    padding: 5px;
+}
+.line{
+    height: 3px;
+    background-color: rgb(128, 128, 128);
+    width: 100%;
+}
